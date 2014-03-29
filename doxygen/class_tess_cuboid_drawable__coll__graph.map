@@ -1,0 +1,5 @@
+<map id="TessCuboidDrawable" name="TessCuboidDrawable">
+<area shape="rect" id="node2" href="$class_drawable_interface.html" title="DrawableInterface" alt="" coords="5,83,128,109"/>
+<area shape="rect" id="node3" href="$class_cuboid.html" title="Cuboid" alt="" coords="153,83,215,109"/>
+<area shape="rect" id="node4" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="131,5,237,32"/>
+</map>

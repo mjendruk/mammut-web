@@ -1,0 +1,5 @@
+<map id="AbstractPostProcPass" name="AbstractPostProcPass">
+<area shape="rect" id="node2" href="$class_motion_blur_pass.html" title="MotionBlurPass" alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$class_simple_post_proc_pass.html" title="SimplePostProcPass" alt="" coords="144,80,291,107"/>
+<area shape="rect" id="node4" href="$class_s_s_a_o_pass.html" title="SSAOPass" alt="" coords="315,80,404,107"/>
+</map>

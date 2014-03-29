@@ -1,0 +1,9 @@
+<map id="MenuItem" name="MenuItem">
+<area shape="rect" id="node3" href="$class_controls_list_item.html" title="ControlsListItem" alt="" coords="5,155,120,181"/>
+<area shape="rect" id="node4" href="$class_credits_item.html" title="CreditsItem" alt="" coords="145,155,233,181"/>
+<area shape="rect" id="node5" href="$class_highscore_list_item.html" title="HighscoreListItem" alt="" coords="258,155,384,181"/>
+<area shape="rect" id="node6" href="$class_menu_button.html" title="MenuButton" alt="" coords="409,155,500,181"/>
+<area shape="rect" id="node7" href="$class_menu_input.html" title="MenuInput" alt="" coords="525,155,608,181"/>
+<area shape="rect" id="node8" href="$class_menu_logo.html" title="MenuLogo" alt="" coords="632,155,715,181"/>
+<area shape="rect" id="node9" href="$class_menu_text.html" title="MenuText" alt="" coords="739,155,817,181"/>
+</map>

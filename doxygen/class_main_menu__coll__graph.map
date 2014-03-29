@@ -1,0 +1,6 @@
+<map id="MainMenu" name="MainMenu">
+<area shape="rect" id="node2" href="$class_menu.html" title="Menu" alt="" coords="23,160,77,187"/>
+<area shape="rect" id="node3" href="$class_mechanics.html" title="Mechanics" alt="" coords="5,83,91,109"/>
+<area shape="rect" id="node6" href="$class_menu_item.html" title="MenuItem" alt="" coords="115,83,193,109"/>
+<area shape="rect" id="node5" href="$class_menu_button.html" title="MenuButton" alt="" coords="106,160,197,187"/>
+</map>

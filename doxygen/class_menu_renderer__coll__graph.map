@@ -1,0 +1,11 @@
+<map id="MenuRenderer" name="MenuRenderer">
+<area shape="rect" id="node2" href="$class_renderer.html" title="Renderer" alt="" coords="5,173,80,200"/>
+<area shape="rect" id="node3" href="$class_text_renderer.html" title="TextRenderer" alt="" coords="104,173,203,200"/>
+<area shape="rect" id="node4" href="$class_s_d_f_renderer.html" title="SDFRenderer" alt="" coords="146,96,245,123"/>
+<area shape="rect" id="node11" href="$class_symbol_renderer.html" title="SymbolRenderer" alt="" coords="227,173,345,200"/>
+<area shape="rect" id="node5" href="$class_string_composer.html" title="StringComposer" alt="" coords="65,5,180,32"/>
+<area shape="rect" id="node6" href="$class_character_drawable.html" title="CharacterDrawable" alt="" coords="204,5,335,32"/>
+<area shape="rect" id="node7" href="$class_abstract_background.html" title="AbstractBackground" alt="" coords="370,173,509,200"/>
+<area shape="rect" id="node8" href="$class_menu.html" title="Menu" alt="" coords="534,173,588,200"/>
+<area shape="rect" id="node9" href="$class_mechanics.html" title="Mechanics" alt="" coords="519,96,604,123"/>
+</map>

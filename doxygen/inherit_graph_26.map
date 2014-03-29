@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_renderer.html" title="Renderer" alt="" coords="5,31,80,57"/>
+<area shape="rect" id="node2" href="$class_game_world_renderer.html" title="GameWorldRenderer" alt="" coords="129,5,271,32"/>
+<area shape="rect" id="node3" href="$class_menu_renderer.html" title="MenuRenderer" alt="" coords="147,56,253,83"/>
+</map>

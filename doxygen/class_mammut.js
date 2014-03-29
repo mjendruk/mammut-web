@@ -1,0 +1,37 @@
+var class_mammut =
+[
+    [ "BoostDirection", "class_mammut.html#ae78905558c99f512a875316bbaf78aa5", [
+      [ "kUp", "class_mammut.html#ae78905558c99f512a875316bbaf78aa5a8a9e8c8811f2a710615e133456229ee5", null ],
+      [ "kRight", "class_mammut.html#ae78905558c99f512a875316bbaf78aa5a2dd2b017192f8a09367d48c7648213c9", null ],
+      [ "kDown", "class_mammut.html#ae78905558c99f512a875316bbaf78aa5a3bc2ec3237c6d119b0b5c4225122a07e", null ],
+      [ "kLeft", "class_mammut.html#ae78905558c99f512a875316bbaf78aa5a2d5fde1d924910a2a01ecd8e70a87c28", null ]
+    ] ],
+    [ "Mammut", "class_mammut.html#a9d926f2c4d6a9c95b38c0f45a1420da8", null ],
+    [ "~Mammut", "class_mammut.html#a649996886fe6fbe9f532da1e6d10f79d", null ],
+    [ "addZShift", "class_mammut.html#a2f119ed0b73eeae798d7413274f37b87", null ],
+    [ "applyBoost", "class_mammut.html#ab369c0206e29e134cf5435101a7376e2", null ],
+    [ "caveCollisionEvent", "class_mammut.html#a4dbdbf0397272e8c6306c2a3584b5598", null ],
+    [ "collectBoostFromObject", "class_mammut.html#ac737b1d5a72b8c22524933595a90c124", null ],
+    [ "collectedBoosts", "class_mammut.html#a4882f1a5ebb7fa74844cf1c40e7412a4", null ],
+    [ "collisionEvent", "class_mammut.html#a6b91d039e9610f85e43a54492ab23a55", null ],
+    [ "crash", "class_mammut.html#ab82dac97830ac1e7f703c8ac21097a81", null ],
+    [ "crashed", "class_mammut.html#a6be75833d13b6dc24082fcfcff27f07d", null ],
+    [ "gravityChangeEvent", "class_mammut.html#a66f46dab1ce903d5be7ad92d8c2e8ab2", null ],
+    [ "isStillOnObject", "class_mammut.html#aa8e7664c609c3b44d0d386fadef0dd37", null ],
+    [ "modelTransform", "class_mammut.html#aec095b405deb1a095639b71fc3e3c8d3", null ],
+    [ "physics", "class_mammut.html#a0049d1f11ddda97504ce1a50a3e8d908", null ],
+    [ "position", "class_mammut.html#a2d0ee3b784f2c46e170276213752c8f6", null ],
+    [ "rotation", "class_mammut.html#aabfda3c3e2ef7741f43336523b993a78", null ],
+    [ "slowDownDrifting", "class_mammut.html#a6dc722d3fc5b3676149858985de7005e", null ],
+    [ "update", "class_mammut.html#aaddb3de0f44af864617f78b9c109d2f3", null ],
+    [ "updateBoostState", "class_mammut.html#a1fe68724394e5813ec22c6470e56821e", null ],
+    [ "velocity", "class_mammut.html#a8ab9574580d3a578347fc337f3d13c06", null ],
+    [ "m_boostIsActive", "class_mammut.html#a2917c437910800f63485763ac79600d6", null ],
+    [ "m_collectedBoosts", "class_mammut.html#aa394cce2b7940a9ec174d7df49537419", null ],
+    [ "m_gravityTransform", "class_mammut.html#ae6879bc23cd6b5a333522f61568a0622", null ],
+    [ "m_isCrashed", "class_mammut.html#a21b72d82526a899118fd05f161ae8f0f", null ],
+    [ "m_isOnObject", "class_mammut.html#a792fea47f2e7e9c41e7c5d99b9e465b3", null ],
+    [ "m_physics", "class_mammut.html#a8ae4f581fff27f05a1855f4f04834ce2", null ],
+    [ "m_zDistance", "class_mammut.html#ad2b4b2ebf2af37f6e5d2b72805fe704f", null ],
+    [ "physicSteps", "class_mammut.html#afb23c50bc9992c051fe6696ef6ee24bb", null ]
+];

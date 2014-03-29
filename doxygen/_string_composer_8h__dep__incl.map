@@ -1,0 +1,23 @@
+<map id="source/rendering/text/StringComposer.h" name="source/rendering/text/StringComposer.h">
+<area shape="rect" id="node2" href="$_s_d_f_renderer_8h.html" title="source/rendering/text\l/SDFRenderer.h" alt="" coords="624,97,768,138"/>
+<area shape="rect" id="node22" href="$_string_composer_8cpp.html" title="source/rendering/text\l/StringComposer.cpp" alt="" coords="792,97,936,138"/>
+<area shape="rect" id="node3" href="$_s_d_f_renderer_8cpp.html" title="source/rendering/text\l/SDFRenderer.cpp" alt="" coords="456,187,600,229"/>
+<area shape="rect" id="node4" href="$_symbol_renderer_8h.html" title="source/rendering/text\l/SymbolRenderer.h" alt="" coords="796,187,940,229"/>
+<area shape="rect" id="node20" href="$_text_renderer_8h.html" title="source/rendering/text\l/TextRenderer.h" alt="" coords="624,187,768,229"/>
+<area shape="rect" id="node5" href="$_menu_renderer_8h.html" title="source/rendering/menu\l/MenuRenderer.h" alt="" coords="793,278,948,319"/>
+<area shape="rect" id="node15" href="$_symbol_renderer_8cpp.html" title="source/rendering/text\l/SymbolRenderer.cpp" alt="" coords="972,278,1119,319"/>
+<area shape="rect" id="node16" href="$_h_u_d_8h.html" title="source/rendering/world\l/HUD.h" alt="" coords="617,278,769,319"/>
+<area shape="rect" id="node6" href="$_game_8cpp.html" title="source/Game.cpp" alt="" coords="593,467,719,493"/>
+<area shape="rect" id="node7" href="$_controls_list_item_8cpp.html" title="source/logic/menu/items\l/ControlsListItem.cpp" alt="" coords="909,369,1072,410"/>
+<area shape="rect" id="node8" href="$_credits_item_8cpp.html" title="source/logic/menu/items\l/CreditsItem.cpp" alt="" coords="1097,369,1260,410"/>
+<area shape="rect" id="node9" href="$_highscore_list_item_8cpp.html" title="source/logic/menu/items\l/HighscoreListItem.cpp" alt="" coords="1285,369,1448,410"/>
+<area shape="rect" id="node10" href="$_menu_button_8cpp.html" title="source/logic/menu/items\l/MenuButton.cpp" alt="" coords="1473,369,1636,410"/>
+<area shape="rect" id="node11" href="$_menu_input_8cpp.html" title="source/logic/menu/items\l/MenuInput.cpp" alt="" coords="1661,369,1824,410"/>
+<area shape="rect" id="node12" href="$_menu_logo_8cpp.html" title="source/logic/menu/items\l/MenuLogo.cpp" alt="" coords="302,369,465,410"/>
+<area shape="rect" id="node13" href="$_menu_text_8cpp.html" title="source/logic/menu/items\l/MenuText.cpp" alt="" coords="490,369,653,410"/>
+<area shape="rect" id="node14" href="$_menu_renderer_8cpp.html" title="source/rendering/menu\l/MenuRenderer.cpp" alt="" coords="679,369,833,410"/>
+<area shape="rect" id="node17" href="$_game_world_renderer_8h.html" title="source/rendering/world\l/GameWorldRenderer.h" alt="" coords="119,369,277,410"/>
+<area shape="rect" id="node19" href="$_h_u_d_8cpp.html" title="source/rendering/world\l/HUD.cpp" alt="" coords="5,459,157,501"/>
+<area shape="rect" id="node18" href="$_game_world_renderer_8cpp.html" title="source/rendering/world\l/GameWorldRenderer.cpp" alt="" coords="182,459,353,501"/>
+<area shape="rect" id="node21" href="$_text_renderer_8cpp.html" title="source/rendering/text\l/TextRenderer.cpp" alt="" coords="449,278,593,319"/>
+</map>
