@@ -95,7 +95,8 @@ a:after {
 }
 
 .navbar-inverse .navbar-nav > .active > a {
-	background: #C13C31
+	background: #C13C31;
+    border-radius: 2px;
 }
 
 .navbar-inverse .navbar-brand {
@@ -413,7 +414,6 @@ a:after {
    Mammut additions
    ========================================================================== */
 
-#downloads i:hover {
-    color: #222222;
+.btn {
+    border-radius: 2px;
 }
-
