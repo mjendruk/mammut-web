@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_abstract_post_proc_pass.html" title="AbstractPostProcPass" alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node2" href="$class_motion_blur_pass.html" title="MotionBlurPass" alt="" coords="224,5,339,32"/>
+<area shape="rect" id="node3" href="$class_simple_post_proc_pass.html" title="SimplePostProcPass" alt="" coords="208,56,355,83"/>
+<area shape="rect" id="node4" href="$class_s_s_a_o_pass.html" title="SSAOPass" alt="" coords="237,107,326,133"/>
+</map>

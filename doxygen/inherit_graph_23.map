@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="5,56,112,83"/>
+<area shape="rect" id="node2" href="$class_cuboid.html" title="Cuboid" alt="" coords="189,5,251,32"/>
+<area shape="rect" id="node3" href="$class_mammut_physics.html" title="MammutPhysics" alt="" coords="160,56,280,83"/>
+<area shape="rect" id="node4" href="$class_tet.html" title="Tet" alt="" coords="200,107,240,133"/>
+</map>

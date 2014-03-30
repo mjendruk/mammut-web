@@ -1,0 +1,8 @@
+<map id="source/logic/menu/items/MenuText.h" name="source/logic/menu/items/MenuText.h">
+<area shape="rect" id="node2" href="$_controls_menu_8cpp.html" title="source/logic/menu/Controls\lMenu.cpp" alt="" coords="5,97,184,138"/>
+<area shape="rect" id="node3" href="$_credits_menu_8cpp.html" title="source/logic/menu/Credits\lMenu.cpp" alt="" coords="209,97,383,138"/>
+<area shape="rect" id="node4" href="$_game_over_menu_8cpp.html" title="source/logic/menu/GameOver\lMenu.cpp" alt="" coords="407,97,600,138"/>
+<area shape="rect" id="node5" href="$_menu_text_8cpp.html" title="source/logic/menu/items\l/MenuText.cpp" alt="" coords="625,97,788,138"/>
+<area shape="rect" id="node6" href="$_new_highscore_menu_8cpp.html" title="source/logic/menu/NewHighscore\lMenu.cpp" alt="" coords="813,97,1027,138"/>
+<area shape="rect" id="node7" href="$_menu_renderer_8cpp.html" title="source/rendering/menu\l/MenuRenderer.cpp" alt="" coords="1052,97,1207,138"/>
+</map>

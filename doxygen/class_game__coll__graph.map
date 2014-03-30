@@ -1,0 +1,6 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node2" href="$class_abstract_application.html" title="AbstractApplication" alt="" coords="5,96,139,123"/>
+<area shape="rect" id="node4" href="$class_highscore_list.html" title="HighscoreList" alt="" coords="164,96,265,123"/>
+<area shape="rect" id="node5" href="$class_canvas.html" title="Canvas" alt="" coords="313,96,377,123"/>
+<area shape="rect" id="node7" href="$class_renderer.html" title="Renderer" alt="" coords="359,5,433,32"/>
+</map>

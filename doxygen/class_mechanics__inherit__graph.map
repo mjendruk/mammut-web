@@ -1,0 +1,11 @@
+<map id="Mechanics" name="Mechanics">
+<area shape="rect" id="node3" href="$class_game_mechanics.html" title="GameMechanics" alt="" coords="259,107,379,133"/>
+<area shape="rect" id="node4" href="$class_menu.html" title="Menu" alt="" coords="291,157,346,184"/>
+<area shape="rect" id="node5" href="$class_controls_menu.html" title="ControlsMenu" alt="" coords="445,5,547,32"/>
+<area shape="rect" id="node6" href="$class_credits_menu.html" title="CreditsMenu" alt="" coords="449,56,543,83"/>
+<area shape="rect" id="node7" href="$class_game_over_menu.html" title="GameOverMenu" alt="" coords="439,107,553,133"/>
+<area shape="rect" id="node8" href="$class_highscore_menu.html" title="HighscoreMenu" alt="" coords="440,157,552,184"/>
+<area shape="rect" id="node9" href="$class_main_menu.html" title="MainMenu" alt="" coords="455,208,537,235"/>
+<area shape="rect" id="node10" href="$class_new_highscore_menu.html" title="NewHighscoreMenu" alt="" coords="427,259,565,285"/>
+<area shape="rect" id="node11" href="$class_pause_menu.html" title="PauseMenu" alt="" coords="451,309,541,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="HUD" name="HUD">
+<area shape="rect" id="node2" href="$class_text_renderer.html" title="TextRenderer" alt="" coords="20,173,119,200"/>
+<area shape="rect" id="node3" href="$class_s_d_f_renderer.html" title="SDFRenderer" alt="" coords="86,96,185,123"/>
+<area shape="rect" id="node8" href="$class_symbol_renderer.html" title="SymbolRenderer" alt="" coords="143,173,261,200"/>
+<area shape="rect" id="node4" href="$class_string_composer.html" title="StringComposer" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node5" href="$class_character_drawable.html" title="CharacterDrawable" alt="" coords="144,5,275,32"/>
+<area shape="rect" id="node6" href="$class_render_camera.html" title="RenderCamera" alt="" coords="295,173,403,200"/>
+</map>

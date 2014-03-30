@@ -1,0 +1,7 @@
+<map id="source/logic/highscore/HighscoreEntry.h" name="source/logic/highscore/HighscoreEntry.h">
+<area shape="rect" id="node2" href="$_highscore_entry_8cpp.html" title="source/logic/highscore\l/HighscoreEntry.cpp" alt="" coords="5,97,157,138"/>
+<area shape="rect" id="node3" href="$_highscore_list_8cpp.html" title="source/logic/highscore\l/HighscoreList.cpp" alt="" coords="181,97,333,138"/>
+<area shape="rect" id="node4" href="$_credits_item_8cpp.html" title="source/logic/menu/items\l/CreditsItem.cpp" alt="" coords="358,97,521,138"/>
+<area shape="rect" id="node5" href="$_highscore_list_item_8cpp.html" title="source/logic/menu/items\l/HighscoreListItem.cpp" alt="" coords="546,97,709,138"/>
+<area shape="rect" id="node6" href="$_menu_renderer_8cpp.html" title="source/rendering/menu\l/MenuRenderer.cpp" alt="" coords="735,97,889,138"/>
+</map>

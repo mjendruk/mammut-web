@@ -1,0 +1,4 @@
+<map id="AbstractBackground" name="AbstractBackground">
+<area shape="rect" id="node2" href="$class_blank_background.html" title="BlankBackground" alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$class_screenshot_background.html" title="ScreenshotBackground" alt="" coords="153,80,311,107"/>
+</map>

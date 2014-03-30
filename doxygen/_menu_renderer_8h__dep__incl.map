@@ -1,0 +1,11 @@
+<map id="source/rendering/menu/MenuRenderer.h" name="source/rendering/menu/MenuRenderer.h">
+<area shape="rect" id="node2" href="$_game_8cpp.html" title="source/Game.cpp" alt="" coords="5,104,131,131"/>
+<area shape="rect" id="node3" href="$_controls_list_item_8cpp.html" title="source/logic/menu/items\l/ControlsListItem.cpp" alt="" coords="155,97,319,138"/>
+<area shape="rect" id="node4" href="$_credits_item_8cpp.html" title="source/logic/menu/items\l/CreditsItem.cpp" alt="" coords="343,97,507,138"/>
+<area shape="rect" id="node5" href="$_highscore_list_item_8cpp.html" title="source/logic/menu/items\l/HighscoreListItem.cpp" alt="" coords="531,97,695,138"/>
+<area shape="rect" id="node6" href="$_menu_button_8cpp.html" title="source/logic/menu/items\l/MenuButton.cpp" alt="" coords="719,97,883,138"/>
+<area shape="rect" id="node7" href="$_menu_input_8cpp.html" title="source/logic/menu/items\l/MenuInput.cpp" alt="" coords="907,97,1071,138"/>
+<area shape="rect" id="node8" href="$_menu_logo_8cpp.html" title="source/logic/menu/items\l/MenuLogo.cpp" alt="" coords="1095,97,1259,138"/>
+<area shape="rect" id="node9" href="$_menu_text_8cpp.html" title="source/logic/menu/items\l/MenuText.cpp" alt="" coords="1283,97,1447,138"/>
+<area shape="rect" id="node10" href="$_menu_renderer_8cpp.html" title="source/rendering/menu\l/MenuRenderer.cpp" alt="" coords="1472,97,1627,138"/>
+</map>

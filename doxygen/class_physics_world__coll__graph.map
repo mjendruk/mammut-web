@@ -1,0 +1,5 @@
+<map id="PhysicsWorld" name="PhysicsWorld">
+<area shape="rect" id="node5" href="$class_mammut.html" title="Mammut" alt="" coords="53,83,125,109"/>
+<area shape="rect" id="node3" href="$class_mammut_physics.html" title="MammutPhysics" alt="" coords="77,173,197,200"/>
+<area shape="rect" id="node4" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="197,83,304,109"/>
+</map>

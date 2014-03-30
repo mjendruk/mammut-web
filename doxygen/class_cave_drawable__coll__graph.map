@@ -1,0 +1,4 @@
+<map id="CaveDrawable" name="CaveDrawable">
+<area shape="rect" id="node2" href="$class_drawable_interface.html" title="DrawableInterface" alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" href="$class_cave.html" title="Cave" alt="" coords="153,5,204,32"/>
+</map>
