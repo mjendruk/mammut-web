@@ -473,3 +473,7 @@ body {
   bottom: 0;
   width: 100%;
 }
+
+.col-download {
+    margin-bottom: 20px;
+}
