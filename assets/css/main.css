@@ -441,6 +441,12 @@ a:after {
     padding: 0px;
 }
 
+.img-screenshot:hover {
+    -moz-box-shadow:     0 0 10px #000000;
+    -webkit-box-shadow:  0 0 10px #000000;
+    box-shadow:          0 0 10px #000000;
+}
+
 .wb-screenshots {
     margin-bottom: 35px;
 }
